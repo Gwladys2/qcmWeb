@@ -16,6 +16,8 @@ export default function PhiloEducation() {
 
   const current = questions[currentIndex];
 
+  const navigate = useNavigate(); 
+
   const handleAnswer = async (index) => {
     const explication = current.explication || current.explications || "Pas d'explication disponible.";
 
@@ -69,12 +71,10 @@ export default function PhiloEducation() {
       ) : (
         <>
           <h2 className="question">🎉 Leçon terminée !</h2>
-          <button className="option-btn" onClick={() => window.location.reload()}>
+          <button className="option-btn" onClick={() => navigate('/')}>
             🔁 Revenir à la liste des UE
           </button>
-          <button className="option-btn" onClick={() => setModal({ show: true, title: "⏭ Partie 2", message: "Partie 2 à venir..." })}>
-            ⏭ Passer à la partie 2
-          </button>
+          
         </>
       )}
 
@@ -87,7 +87,7 @@ export default function PhiloEducation() {
           <Link className="link" to="/CitationFreinet">🔹Les citations de Freinet</Link>
            <Link className="link" to="/CitationMontessori">🔹Les citations de Montessori</Link>
             <Link className="link" to="/CitationNeill">🔹Les citations de Neill</Link>
-            <Link className="link" to="/CitationAlvarez">🔹Les citations de Alvarez</Link>
+            <Link className="link" to="/CitationAlvarez">🔹Les citations d'Alvarez</Link>
       </div>
 
       {/* Modale */}

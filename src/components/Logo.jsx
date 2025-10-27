@@ -4,7 +4,7 @@ import '../Logo.css';
 export default function Logo() {
   return (
     <div className="logo">
-      <img src="/logo192.png" alt="Logo" />
+      <img src="/gladDevLogo.png" alt="Logo" />
     </div>
   );
 }

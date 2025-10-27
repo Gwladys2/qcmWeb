@@ -16,6 +16,7 @@ export default function PhiloEducation() {
 
   const current = questions[currentIndex];
 
+  const navigate = useNavigate(); 
   const handleAnswer = async (index) => {
     const explication = current.explication || current.explications || "Pas d'explication disponible.";
 
@@ -65,7 +66,7 @@ export default function PhiloEducation() {
       ) : (
         <>
           <h2 className="question">🎉 Leçon terminée !</h2>
-          <button className="option-btn" onClick={() => window.location.reload()}>
+           <button className="option-btn" onClick={() => navigate('/')}>
             🔁 Revenir à la liste des UE
           </button>
           

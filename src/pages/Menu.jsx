@@ -20,15 +20,11 @@ export default function MonAccueil() {
       </button>
 
       <button className="lesson-links" onClick={() => navigate('/')}>
-        Architecture de l'ordinateur
-      </button>
-
-      <button className="lesson-links" onClick={() => navigate('/')}>
         Philosophie de l'éducation
       </button>
 
       <button className="lesson-links" onClick={() => navigate('/')}>
-        Lettres et Art
+        Lettres et Arts
       </button>
     </div>
   );

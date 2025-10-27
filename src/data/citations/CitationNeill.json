@@ -1,0 +1,112 @@
+[
+  {
+    "question": "1 - « Je professe l’opinion que le but de la vie, c’est la poursuite du bonheur. » Cette citation exprime :",
+    "options": [
+      "La finalité éducative selon Neill",
+      "Une règle morale religieuse",
+      "Un principe économique",
+      "Une phrase de Rousseau"
+    ],
+    "answerIndex": 0,
+    "explication": "Neill affirme explicitement que le but de la vie est le bonheur, et que l’éducation doit aider l’enfant à l’atteindre. (Source : Summerhill, 1960)"
+  },
+  {
+    "question": "2 - « Personne n’a le droit d’assombrir la vie d’un gosse. » Que veut dire Neill ici ?",
+    "options": [
+      "Les enfants doivent être punis avec douceur",
+      "Les parents doivent contrôler leurs enfants",
+      "Les enseignants doivent imposer des règles",
+      "Aucun adulte ne devrait briser la joie naturelle de l’enfant"
+    ],
+    "answerIndex": 3,
+    "explication": "Neill défend le droit fondamental de l’enfant au bonheur. Toute éducation humiliante détruit sa lumière intérieure. (Source : Summerhill, 1960)"
+  },
+  {
+    "question": "3 - « Les enfants n’apprennent que ce qu’ils veulent apprendre. » Cette phrase souligne :",
+    "options": [
+      "La nécessité de cours obligatoires",
+      "L’importance du désir dans l’apprentissage",
+      "La valeur de la contrainte éducative",
+      "La supériorité des adultes"
+    ],
+    "answerIndex": 1,
+    "explication": "Neill affirme que l’apprentissage authentique ne naît que du désir personnel d’apprendre. (Source : Summerhill, 1960)"
+  },
+  {
+    "question": "4 - « Je trouve inutile de corriger les feuilles de mes élèves ; les gosses ne lisent pas les remarques à l’encre rouge. » Quelle idée véhicule cette citation ?",
+    "options": [
+      "L’évaluation est indispensable",
+      "Les fautes doivent être sanctionnées",
+      "La critique négative décourage l’élève",
+      "Les enseignants doivent être stricts"
+    ],
+    "answerIndex": 2,
+    "explication": "Neill critique la correction punitive et préfère une approche encourageante. (Source : Talking of Summerhill, 1967)"
+  },
+  {
+    "question": "5 - « La liberté, pas l’anarchie. » Que cherche à dire Neill par cette formule ?",
+    "options": [
+      "Il faut supprimer toutes les règles",
+      "L’école doit être sans loi",
+      "L’anarchie est un idéal éducatif",
+      "La liberté s’exerce dans un cadre collectif"
+    ],
+    "answerIndex": 3,
+    "explication": "Neill distingue la liberté responsable de l’anarchie. La liberté suppose le respect des autres. (Source : Freedom — Not License!, 1959)"
+  },
+  {
+    "question": "6 - « Les écoles doivent être mixtes parce que la vie est mixte. » Quelle valeur est défendue ici ?",
+    "options": [
+      "L’égalité et le réalisme éducatif",
+      "La séparation des sexes",
+      "L’éducation morale religieuse",
+      "Le contrôle des relations sociales"
+    ],
+    "answerIndex": 0,
+    "explication": "Neill plaide pour la mixité, reflet de la société réelle, afin de favoriser des relations équilibrées. (Source : Summerhill, 1960)"
+  },
+  {
+    "question": "7 - « Je mets ma confiance dans le pouvoir de la liberté pour armer la jeunesse contre le fanatisme. » Quelle idée exprime Neill ?",
+    "options": [
+      "L’obéissance rend plus sage",
+      "La liberté protège de l’endoctrinement",
+      "Le fanatisme est naturel chez l’enfant",
+      "L’éducation doit être religieuse"
+    ],
+    "answerIndex": 1,
+    "explication": "Neill considère que seule une éducation libre développe l’esprit critique et la résistance à toute forme de domination. (Source : Summerhill, 1960)"
+  },
+  {
+    "question": "8 - « Il est absolument inutile d’enseigner à l’enfant comment se conduire. » Cela signifie que :",
+    "options": [
+      "L’enfant doit être corrigé constamment",
+      "La morale est indispensable dès le plus jeune âge",
+      "Les parents doivent tout expliquer",
+      "L’enfant apprend par expérience et non par morale imposée"
+    ],
+    "answerIndex": 3,
+    "explication": "Neill pense que la morale se construit naturellement si l’enfant vit dans un environnement libre et respectueux. (Source : Summerhill, 1960)"
+  },
+  {
+    "question": "9 - « Je crois que mon désir le plus fort, c’est de voir le gosse heureux. » Cette phrase traduit :",
+    "options": [
+      "La finalité humaniste de l’éducation",
+      "Une approche religieuse de l’enfance",
+      "Un projet économique",
+      "Un principe de compétition"
+    ],
+    "answerIndex": 0,
+    "explication": "Pour Neill, l’éducation ne doit pas viser la réussite sociale mais le bonheur individuel. (Source : Talking of Summerhill, 1967)"
+  },
+  {
+    "question": "10 - « Freedom, not license! » (La liberté, pas le laisser-faire.) Que veut dire Neill ?",
+    "options": [
+      "La liberté a des limites morales et sociales",
+      "La liberté totale mène au chaos",
+      "Les enfants ne doivent pas être libres",
+      "La liberté est dangereuse pour les jeunes"
+    ],
+    "answerIndex": 0,
+    "explication": "Neill oppose la liberté responsable au laisser-faire, soulignant que la vraie liberté suppose le respect d’autrui. (Source : Freedom — Not License!, 1959)"
+  }
+]

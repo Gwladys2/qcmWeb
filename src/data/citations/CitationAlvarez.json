@@ -1,0 +1,156 @@
+[
+  {
+    "question": "1 - « Les lois naturelles de l’enfant sont universelles. » Quelle idée Céline Alvarez met-elle ici en avant ?",
+    "options": [
+      "Chaque culture détermine librement ses méthodes d’apprentissage",
+      "L’enfant doit être éduqué selon les traditions locales",
+      "Tous les enfants suivent les mêmes principes biologiques et cognitifs de développement",
+      "Il n’existe pas de lois universelles dans l’éducation"
+    ],
+    "answerIndex": 2,
+    "explication": "Alvarez insiste sur l’universalité des besoins fondamentaux de l’enfant : curiosité, autonomie, besoin d’amour et d’activité libre."
+  },
+  {
+    "question": "2 - « Aucun enseignant, aussi bon orateur et savant soit-il, ne pourra jamais transmettre directement ses connaissances dans le cerveau des élèves en parlant. »",
+    "options": [
+      "L’élève doit être acteur de ses apprentissages pour les intégrer réellement",
+      "L’enseignant doit parler davantage pour que l’élève retienne mieux",
+      "L’enseignement magistral est la méthode la plus efficace",
+      "L’élève apprend uniquement par la mémoire auditive"
+    ],
+    "answerIndex": 0,
+    "explication": "Selon Alvarez, l’apprentissage actif — quand l’enfant manipule, explore et réfléchit — est la clé d’une compréhension durable, contrairement à la simple écoute passive."
+  },
+  {
+    "question": "3 - « Nous apprenons difficilement des erreurs et expériences des autres. Nous devons les vivre nous-mêmes. »",
+    "options": [
+      "Les enfants doivent éviter de faire des erreurs",
+      "Il est inutile de corriger les erreurs",
+      "L’expérience directe est essentielle pour ancrer un apprentissage",
+      "L’enseignant doit tout expliquer avant que l’enfant expérimente"
+    ],
+    "answerIndex": 2,
+    "explication": "L’apprentissage passe par l’expérience vécue : c’est en testant, se trompant et corrigeant soi-même que l’enfant comprend en profondeur."
+  },
+  {
+    "question": "4 - « L’être humain apprend en faisant, et non en écoutant. »",
+    "options": [
+      "L’écoute est plus importante que la pratique",
+      "L’action concrète et la manipulation favorisent un apprentissage durable",
+      "L’enseignant doit parler en continu pour maintenir l’attention",
+      "L’enfant apprend surtout par répétition verbale"
+    ],
+    "answerIndex": 1,
+    "explication": "Les neurosciences confirment que l’activité motrice et la manipulation renforcent les connexions neuronales, favorisant la mémorisation et la compréhension."
+  },
+  {
+    "question": "5 - « L’enfant n’apprendra jamais aussi solidement que par les explorations spontanées qui le motivent. »",
+    "options": [
+      "L’enseignant doit imposer les activités pour structurer l’apprentissage",
+      "La motivation est inutile dans le processus d’apprentissage",
+      "Les récompenses extérieures stimulent davantage l’enfant",
+      "La curiosité naturelle de l’enfant est le moteur le plus puissant de l’apprentissage"
+    ],
+    "answerIndex": 3,
+    "explication": "Lorsqu’un enfant explore librement un sujet qui le passionne, il apprend plus profondément et durablement que sous contrainte extérieure."
+  },
+  {
+    "question": "6 - « L’enfant n’apprendra jamais aussi solidement que par les explorations spontanées qui le motivent. »",
+    "options": [
+      "L’enfant doit être encouragé à suivre ses élans naturels de découverte",
+      "Il faut le forcer à apprendre les bases avant d’explorer",
+      "L’enfant doit répéter mécaniquement les leçons",
+      "L’apprentissage doit toujours être dirigé par l’adulte"
+    ],
+    "answerIndex": 0,
+    "explication": "L’exploration libre répond à un besoin biologique d’apprentissage : l’enfant apprend mieux lorsqu’il agit selon sa curiosité et ses intérêts propres."
+  },
+  {
+    "question": "7 - « Le jeune être humain doit apprendre par lui-même, mais avec l’aide de l’autre. »",
+    "options": [
+      "L’enfant apprend seul, sans interaction",
+      "L’adulte doit accompagner sans diriger, en soutenant l’autonomie de l’enfant",
+      "L’adulte doit imposer le rythme et les contenus d’apprentissage",
+      "L’enfant doit suivre passivement les instructions"
+    ],
+    "answerIndex": 1,
+    "explication": "L’adulte est un guide bienveillant : il crée les conditions favorables à l’autonomie tout en restant un soutien sécurisant."
+  },
+  {
+    "question": "8 - « L’être humain est câblé pour apprendre avec d’autres humains plus jeunes et plus âgés que lui. »",
+    "options": [
+      "L’enfant apprend uniquement auprès des adultes",
+      "Les interactions entre enfants nuisent à la concentration",
+      "L’apprentissage est plus efficace seul",
+      "L’apprentissage en groupe multi-âges favorise la coopération et l’imitation positive"
+    ],
+    "answerIndex": 3,
+    "explication": "Les environnements mixtes d’âge stimulent l’apprentissage naturel : les plus jeunes imitent, les plus âgés consolident leurs connaissances en aidant."
+  },
+  {
+    "question": "9 - « Un individu apprend uniquement lorsqu’un évènement viole ses prédictions. »",
+    "options": [
+      "L’apprentissage se fait par simple répétition",
+      "La surprise et le décalage entre attente et réalité déclenchent la curiosité et l’attention",
+      "L’enfant apprend mieux quand tout est prévisible",
+      "Les erreurs doivent être évitées à tout prix"
+    ],
+    "answerIndex": 1,
+    "explication": "Les neurosciences montrent que le cerveau apprend lorsqu’il doit réajuster ses prédictions : la surprise déclenche la plasticité neuronale."
+  },
+  {
+    "question": "10 - « Le sommeil est un élément pleinement inhérent au mécanisme d’apprentissage. »",
+    "options": [
+      "Le sommeil n’a aucun rôle dans l’apprentissage",
+      "Seuls les rêves ont un effet éducatif",
+      "Le sommeil consolide les apprentissages et favorise la mémorisation",
+      "Dormir trop empêche d’apprendre efficacement"
+    ],
+    "answerIndex": 2,
+    "explication": "Durant le sommeil, le cerveau réorganise et fixe les informations acquises dans la journée : c’est une étape essentielle de l’apprentissage."
+  },
+  {
+    "question": "11 - « La bienveillance n’est donc pas une option pédagogique. Il s’agit là d’un véritable catalyseur d’épanouissement. »",
+    "options": [
+      "Le libre choix d’une activité adaptée",
+      "La contrainte et la répétition",
+      "Les évaluations fréquentes",
+      "Le silence imposé"
+    ],
+    "answerIndex": 0,
+    "explication": "La bienveillance et la liberté de choix nourrissent la motivation intrinsèque, clé de l’attention et du plaisir d’apprendre."
+  },
+  {
+    "question": "12 - Quelle phrase résume la vision d’Alvarez ?",
+    "options": [
+      "L’enfant doit être corrigé pour progresser",
+      "L’enfant apprend par peur de l’échec",
+      "L’enfant apprend naturellement lorsqu’il se sent libre et aimé",
+      "L’adulte est la seule source de savoir"
+    ],
+    "answerIndex": 2,
+    "explication": "Son approche repose sur la confiance en la capacité naturelle de l’enfant à apprendre dans un climat affectif positif."
+  },
+  {
+    "question": "13 - Quelle continuité existe entre Montessori et Alvarez ?",
+    "options": [
+      "Le contrôle et la discipline",
+      "L’autonomie, la bienveillance et la confiance dans la nature de l’enfant",
+      "Le travail par la répétition mécanique",
+      "L’enseignement magistral"
+    ],
+    "answerIndex": 1,
+    "explication": "Alvarez reprend les fondements de Montessori à la lumière des découvertes scientifiques contemporaines sur le cerveau et l’apprentissage."
+  },
+  {
+    "question": "14 - Quelle phrase exprime le mieux la philosophie d’Alvarez ?",
+    "options": [
+      "Apprendre dans la joie, la liberté et la confiance",
+      "Apprendre sous la contrainte et la peur",
+      "Apprendre pour être meilleur que les autres",
+      "Apprendre sans émotion ni liberté"
+    ],
+    "answerIndex": 0,
+    "explication": "Céline Alvarez met la joie et la liberté au cœur du processus éducatif, car elles nourrissent la motivation, la créativité et la coopération."
+  }
+]

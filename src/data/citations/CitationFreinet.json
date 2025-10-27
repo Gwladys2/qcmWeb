@@ -1,0 +1,222 @@
+[
+  {
+    "question": "1 - « La coopération entre les enfants est fondamentale pour construire un climat de confiance et favoriser leur développement social. » Que souligne cette citation ?",
+    "options": [
+      "La compétition est le moteur principal de l’apprentissage",
+      "La coopération favorise la confiance et le développement social",
+      "Les enfants doivent travailler isolément pour mieux progresser",
+      "L’enseignant doit centraliser toutes les décisions"
+    ],
+    "answerIndex": 1,
+    "explication": "La citation met l’accent sur la coopération : en travaillant ensemble, les élèves développent des compétences sociales (écoute, entraide, respect) et construisent un climat de confiance propice aux apprentissages."
+  },
+  {
+    "question": "2 - « L'erreur n'est pas un échec, mais une étape essentielle dans l'apprentissage. Il faut encourager l'enfant à expérimenter, se tromper et apprendre de ses erreurs. » Que signifie cette phrase ?",
+    "options": [
+      "Les erreurs doivent être sanctionnées pour éviter qu’elles se reproduisent",    
+      "Il faut éviter toute situation où l’enfant peut se tromper",
+      "L’enseignant doit donner toujours la bonne réponse immédiatement",
+      "L’erreur est un moment d’apprentissage utile qui doit être encouragé"
+    ],
+    "answerIndex": 3,
+    "explication": "L’erreur est considérée comme partie intégrante du processus d’apprentissage : elle permet de tester, corriger et construire des connaissances. L’enseignant doit créer un cadre où l’erreur est acceptée et analysée."
+  },
+  {
+    "question": "3 - « L'éducation ne se limite pas aux connaissances académiques, mais vise à former des citoyens responsables, critiques et solidaires. » Quelle finalité est mise en avant ?",
+    "options": [
+      "Préparer des citoyens engagés et socialement responsables",
+      "Former uniquement des experts techniques",     
+      "Se concentrer uniquement sur la performance scolaire",
+      "Apprendre seulement des savoirs théoriques"
+    ],
+    "answerIndex": 0,
+    "explication": "La citation élargit l’objectif de l’école : il s’agit non seulement d’enseigner des connaissances, mais aussi de développer des compétences civiques, morales et sociales pour former des citoyens."
+  },
+  {
+    "question": "4 - « L'éducation doit être en lien avec la réalité et la vie quotidienne des enfants, en les préparant à devenir des acteurs engagés dans la société. » Quelle implication pédagogique en découle ?",
+    "options": [
+      "Enseigner des contenus éloignés du vécu des élèves",
+      "Relier les apprentissages à des situations concrètes et sociales",
+      "Ignorer le contexte local des élèves",
+      "Favoriser uniquement les exercices abstraits"
+    ],
+    "answerIndex": 1,
+    "explication": "Relier les apprentissages à la vie quotidienne rend le savoir significatif et motive les élèves ; cela favorise aussi l’engagement civique en les impliquant dans des projets concrets."
+  },
+  {
+    "question": "5 - « L'école doit être ouverte sur le monde, en favorisant les échanges avec la communauté locale et en intégrant des projets concrets dans les apprentissages. » Quel bénéfice principal évoque cette citation ?",
+    "options": [
+      "Isoler la classe du monde extérieur",
+      "Remplacer les programmes officiels par des activités non scolaires",
+      "Renforcer la connexion entre l’école et son environnement pour enrichir les apprentissages",
+      "Supprimer toute interaction avec les familles"
+    ],
+    "answerIndex": 2,
+    "explication": "L’ouverture sur le monde permet aux élèves d’apprendre dans des contextes réels (correspondances, sorties, projets locaux), donnant sens aux apprentissages et développant des compétences sociales."
+  },
+  {
+    "question": "6 - « L'enfant apprend mieux en étant actif, en manipulant, en expérimentant, en découvrant par lui-même. » Quelle approche pédagogique est promue ici ?",
+    "options": [
+      "L’apprentissage actif et expérimental",
+      "L’enseignement purement magistral",
+      "La mémorisation passive",
+      "L’imitation sans réflexion"
+    ],
+    "answerIndex": 0,
+    "explication": "L’apprentissage par l’action (manipulation, expérimentation) engage l’élève cognitivement et émotionnellement, ce qui facilite la compréhension et la rétention des savoirs."
+  },
+  {
+    "question": "7 - « L'éducation ne peut pas être standardisée, chaque enfant est unique et mérite une approche personnalisée. » Quelle conséquence pour la pratique enseignante ?",
+    "options": [
+      "Appliquer la même méthode à tous sans distinction",
+      "Adapter les dispositifs pédagogiques aux besoins et rythmes individuels",
+      "Évaluer uniquement sur des critères identiques pour tous",
+      "Ignorer les différences entre élèves"
+    ],
+    "answerIndex": 1,
+    "explication": "Reconnaître l’unicité de chaque enfant conduit à différencier les apprentissages (plans de travail, aides individualisées) afin de mieux répondre aux besoins de chacun."
+  },
+  {
+    "question": "8 - « L'enfant est un être actif, il doit être encouragé à s'exprimer, à participer et à prendre des responsabilités dans la vie de la classe. » Quel élément central de la pédagogie est ici valorisé ?",
+    "options": [
+      "La passivité de l’élève",      
+      "La domination de l’enseignant",
+      "L’absence de règles",
+      "La participation et la responsabilisation"
+    ],
+    "answerIndex": 3,
+    "explication": "Encourager la parole et la participation permet à l’enfant de devenir acteur de ses apprentissages et de la vie collective, développant autonomie et sens des responsabilités."
+  },
+  {
+    "question": "9 - « La pédagogie doit être en perpétuelle évolution, s'adaptant aux besoins et aux réalités du monde contemporain. » Que promeut cette citation ?",
+    "options": [
+      "Une adaptation continue des pratiques éducatives",
+      "Une pédagogie figée et immuable",      
+      "Le rejet de toute innovation",
+      "La reproduction systématique des méthodes anciennes"
+    ],
+    "answerIndex": 0,
+    "explication": "La pédagogie doit évoluer pour rester pertinente : intégrer de nouvelles méthodes, technologies et réponses aux enjeux sociaux contemporains pour mieux servir les élèves."
+  },
+  {
+    "question": "10 - « L'enfant a droit à l'erreur, c'est par ses tâtonnements et ses expériences qu'il construit sa compréhension du monde. » Quelle posture de l’enseignant est nécessaire ?",
+    "options": [
+      "Sanctionner chaque erreur sévèrement",
+      "Valoriser l’erreur comme source d’apprentissage et accompagner l’analyse",
+      "Corriger immédiatement sans explication",
+      "Ignorer les erreurs des élèves"
+    ],
+    "answerIndex": 1,
+    "explication": "L’enseignant doit créer un climat où l’erreur est comprise, analysée et utilisée comme levier pour progresser, favorisant ainsi le tâtonnement et la réflexion."
+  },
+  {
+    "question": "11 - « La discipline ne doit pas être punitive, mais être basée sur le respect mutuel, la responsabilisation et la coopération. » Quelle est l’alternative proposée aux sanctions punitives ?",
+    "options": [
+      "La répression systématique",    
+      "L’absence totale de règles",
+      "L’isolement des élèves perturbateurs",
+      "La co-construction des règles et la responsabilisation des élèves"
+    ],
+    "answerIndex": 3,
+    "explication": "La discipline éducative repose sur des règles établies collectivement, la responsabilisation et des stratégies de régulation fondées sur le respect plutôt que sur la punition."
+  },
+  {
+    "question": "12 - « L'apprentissage ne doit pas être cloisonné en disciplines isolées, mais doit favoriser les liens entre les savoirs et les expériences vécues. » Quelle démarche pédagogique est encouragée ?",
+    "options": [
+      "Travailler chaque discipline séparément sans lien",
+      "Favoriser les approches interdisciplinaires et les projets concrets",
+      "Éviter toute mise en relation des contenus",
+      "Se contenter de cours magistraux"
+    ],
+    "answerIndex": 1,
+    "explication": "Croiser les disciplines et travailler par projets permet aux élèves de comprendre les liens entre savoirs et leur application dans des situations réelles, renforçant la signification des apprentissages."
+  },
+  {
+    "question": "13 - « L'enfant est un chercheur, il a naturellement le désir de comprendre et de découvrir. L'école doit nourrir cette curiosité et cette soif de savoir. » Quelle pratique scolaire en découle ?",
+    "options": [
+      "Encourager la recherche, les questionnements et les projets d’exploration",
+      "Réprimer la curiosité pour maintenir l’ordre",
+      "Limiter les questions des élèves",
+      "Focaliser sur les exercices répétitifs uniquement"
+    ],
+    "answerIndex": 0,
+    "explication": "Stimuler la curiosité implique de proposer des situations d’investigation où l’élève pose des questions, expérimente et construit ses propres réponses."
+  },
+  {
+    "question": "14 - « L'éducation doit encourager l'esprit critique chez l'enfant, lui permettant de questionner, d'analyser et de remettre en cause les informations qu'il reçoit. » Quel objectif vise-t-on ici ?",
+    "options": [
+      "Former des individus dociles sans questionnement",    
+      "Interdire toute remise en question par les élèves",
+      "Développer l’autonomie intellectuelle et la capacité d’analyse critique",
+      "Imposer des vérités absolues"
+    ],
+    "answerIndex": 2,
+    "explication": "L’esprit critique est une compétence civique essentielle : il permet aux élèves d’évaluer les informations, d’argumenter et de prendre des décisions éclairées."
+  },
+  {
+    "question": "15 - « L'éducation ne doit pas se limiter à la transmission de connaissances, mais doit développer les compétences sociales, émotionnelles et créatives de l'enfant. » Quelle visée pédagogique est mise en avant ?",
+    "options": [
+      "Se limiter aux connaissances disciplinaires",
+      "Favoriser un développement global (socio-émotionnel et créatif)",
+      "Négliger les compétences non scolaires",
+      "Évaluer uniquement les résultats chiffrés"
+    ],
+    "answerIndex": 1,
+    "explication": "L’éducation doit viser le développement complet de l’enfant : aptitudes sociales, gestion des émotions, créativité, en complément des savoirs académiques."
+  },
+  {
+    "question": "16 - « L'éducation doit être ancrée dans la réalité de l'enfant, en le reliant aux problématiques de la société et en l'encourageant à agir pour un monde meilleur. » Quelle dimension citoyenne est ici valorisée ?",
+    "options": [
+      "L’isolement de l’école de la société",      
+      "La neutralité totale sur les enjeux sociaux",
+      "La transmission passive d’informations",
+      "L’engagement et la responsabilité sociale par des actions concrètes"
+    ],
+    "answerIndex": 3,
+    "explication": "Relier l’école aux enjeux sociaux donne aux élèves l’occasion d’apprendre en agissant (projets, initiatives) et de développer un sens éthique et civique."
+  },
+  {
+    "question": "17 - « L'enfant a le droit de participer aux décisions qui le concernent, en ayant une voix active dans la vie de la classe et de l'école. » Quelle pratique institutionnelle cela implique-t-il ?",
+    "options": [
+      "Instances de décision participatives (conseils, assemblées) impliquant les élèves",
+      "Décisions imposées sans consultation",      
+      "Exclusion des élèves des sujets importants",
+      "Décision uniquement par les parents"
+    ],
+    "answerIndex": 0,
+    "explication": "Associer les élèves aux décisions (conseil de classe, débats) les responsabilise, renforce leur engagement et développe des compétences démocratiques."
+  },
+  {
+    "question": "18 - « L'école doit valoriser les talents et les passions de chaque enfant, en leur offrant des opportunités de développement et d'épanouissement personnel. » Quelle logique pédagogique est privilégiée ?",
+    "options": [
+      "Uniformiser les parcours sans tenir compte des intérêts",
+      "Favoriser la différenciation et la valorisation des potentiels individuels",
+      "Négliger les intérêts personnels",
+      "Imposer un parcours unique pour tous"
+    ],
+    "answerIndex": 1,
+    "explication": "Identifier et soutenir les passions et talents permet d’offrir des parcours riches et motivants, favorisant l’épanouissement et la réussite individuelle."
+  },
+  {
+    "question": "19 - « L'éducation ne doit pas se contenter de préparer les enfants à la vie future, mais leur offrir des expériences significatives et enrichissantes dans le présent. » Que privilégie cette citation ?",
+    "options": [
+      "Reporter toute expérience à l’âge adulte",      
+      "Retarder l’apprentissage pratique au secondaire",
+      "Proposer des expériences concrètes et significatives dès maintenant",
+      "Ne pas tenir compte du vécu immédiat des élèves"
+    ],
+    "answerIndex": 2,
+    "explication": "L’école doit offrir des expériences qui ont du sens pour l’élève aujourd’hui, pas seulement des préparations théoriques pour plus tard ; cela renforce la motivation et l’apprentissage."
+  },
+  {
+    "question": "20 - « L'éducation doit être une expérience active et concrète, en mettant l'accent sur les apprentissages concrets et la résolution de problèmes réels. » Quelle méthode pédagogique est favorisée ?",
+    "options": [
+      "Pédagogies par projet et résolution de problèmes réels",
+      "Cours magistraux abstraits sans application pratique",
+      "Exercices décontextualisés uniquement",
+      "Apprentissage par cœur sans mise en pratique"
+    ],
+    "answerIndex": 0,
+    "explication": "Travailler sur problèmes réels et projets concrets engage les élèves dans des tâches authentiques, mobilisant connaissances et compétences transversales pour produire des solutions utiles."
+  }
+]
